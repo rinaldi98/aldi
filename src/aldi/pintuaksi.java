@@ -5,5 +5,7 @@ public class pintuaksi {
         pintu r1 = new pintu();
         r1.panjang = 9;
         r1.lebar = 4;
+        
+        r1.cetakInfo();
     }
 }
