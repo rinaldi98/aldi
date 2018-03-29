@@ -9,5 +9,11 @@ public class pintuaksi {
         r1.cetakInfo();
         System.out.println("Luas pintu: "+r1.hitungLuas());
         r1.cetakInfo();
+        
+        pintu r2 = new pintu();
+        r2.cetakInfo();
+        
+        pintu r3 = new pintu();
+        r2.cetakInfo();
     }
 }
