@@ -3,5 +3,7 @@ package aldi;
 public class pintuaksi {
     public static void main(String[] args) {
         pintu r1 = new pintu();
+        r1.panjang = 9;
+        r1.lebar = 4;
     }
 }
