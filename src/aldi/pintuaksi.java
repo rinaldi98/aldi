@@ -7,5 +7,6 @@ public class pintuaksi {
         r1.lebar = 4;
         
         r1.cetakInfo();
+        System.out.println("Luas pintu = "+r1.hitungLuas());
     }
 }
